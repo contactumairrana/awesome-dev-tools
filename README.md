@@ -78,6 +78,7 @@ We encourage contributions from the community, so if you have a favorite develop
 
   - [ToolHover](https://toolhover.com) - Free online developer utilities including JSON formatter & validator, password generator, hash
   generator, Base64 encoder/decoder, text counter & converter, and QR code generator.
+  - [DevOmniTools](https://www.devomnitools.com/en/) - Free, private, client-side developer utility suite with 56+ in-browser tools including JSON Formatter, JWT Inspector, Regex Sandbox with ReDoS protection, cURL Converter, and Subnet Calculators running with zero server telemetry.
 
 #### Integrated Development Environments (IDEs)
 
